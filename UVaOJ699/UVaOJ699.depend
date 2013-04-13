@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1364540399 source:g:\acm\uvaoj\uvaoj699\main.cpp
+	<iostream>
+	<cstring>
+

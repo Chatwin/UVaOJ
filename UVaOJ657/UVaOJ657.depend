@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1365234139 source:g:\acm\uvaoj\uvaoj657\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+	<cstdio>
+	<cstring>
+
