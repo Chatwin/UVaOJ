@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1367832948 source:g:\acm\uvaoj\uvaoj10487\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdio>
+	<cmath>
+
